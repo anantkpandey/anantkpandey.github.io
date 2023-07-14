@@ -1,2 +1,2 @@
 # anantkpandey.github.io
-Anant K Pandey's Blog
+Anant K Pandey's Portfolio
